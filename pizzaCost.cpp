@@ -2,8 +2,9 @@
 //
 // Created by Dylan Melo
 // Created on December 2021
-// This program asks the user for the radius and then
-// displays the circumference using tau.
+// This program asks the user for the diameter of the
+// pizza. It then calculates and displays the total cost
+// of the pizza with tax
 #include <iostream>
 #include <cmath>
 
